@@ -10,7 +10,7 @@ Code for multilabel GraphCut: https://vision.cs.uwaterloo.ca/files/gco-v3.0.zip
 - Utilized reference code from above links to enable denoising and image segmentation capabilities
 
 ### Denoising Example
-![denoising](denoising.jpg)
+![denoising](denoising.JPG)
 
 ### Image Segmentation Example
-![image_segmentation](img_seg.jpg)
+![image_segmentation](img_seg.JPG)
